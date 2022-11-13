@@ -1,2 +1,1 @@
-# Temolate2
-with HTML &amp; CSS 
+# Template-2
